@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "//Tugas-Lifecycle/static/js/main.be38f7ba.js",
-    "index.html": "//Tugas-Lifecycle/index.html",
-    "main.be38f7ba.js.map": "//Tugas-Lifecycle/static/js/main.be38f7ba.js.map"
+    "main.js": "/Tugas-Lifecycle/static/js/main.be38f7ba.js",
+    "index.html": "/Tugas-Lifecycle/index.html",
+    "main.be38f7ba.js.map": "/Tugas-Lifecycle/static/js/main.be38f7ba.js.map"
   },
   "entrypoints": [
     "static/js/main.be38f7ba.js"
